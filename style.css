@@ -17,8 +17,16 @@ body {
   font-family: 'Lato', sans-serif;
   font-size: 12px;
 }
+.header{
+display: flex;
+flex-direction: column;
+position: absolute;
+top: 1%;
+vertical-align: middle;
 
+}
 .player-container {
+  margin-top: 150px;
   height: 500px;
   width: 400px;
   background: #e7e7e7;
