@@ -13,25 +13,30 @@ const nextBtn = document.getElementById('next');
 // Music
 const songs = [
   {
-    name: 'jacinto-1',
-    displayName: 'Electric Chill Machine',
-    artist: 'Jacinto Design',
+    name: 'Lost Sky - Dreams pt. II',
+    displayName: 'Dreams pt. II (feat. Sara Skinner)',
+    artist: 'Lost Sky, Sara Skinner',
   },
   {
-    name: 'jacinto-2',
-    displayName: 'Seven Nation Army (Remix)',
-    artist: 'Jacinto Design',
+    name: 'Sub Urban - Cradles [NCS Release]',
+    displayName: 'Cradles',
+    artist: 'Sub Urban',
   },
   {
-    name: 'jacinto-3',
-    displayName: 'Goodnight, Disco Queen',
-    artist: 'Jacinto Design',
+    name: 'Culture Code - Make Me Move (feat. Karra) [NCS Release]',
+    displayName: 'Make Me Move (feat. KARRA)',
+    artist: 'Culture Code, KARRA',
   },
   {
-    name: 'metric-1',
-    displayName: 'Front Row (Remix)',
-    artist: 'Metric/Jacinto Design',
+    name: 'Defqwop - Awakening [NCS Release]',
+    displayName: 'Awakening',
+    artist: 'Defqwop'
   },
+  {
+    name: 'Electro-Light - Symbolism [NCS Release]',
+    displayName: 'Symbolism',
+    artist: 'Electro-Light'
+  }
 ];
 
 // Check if Playing
