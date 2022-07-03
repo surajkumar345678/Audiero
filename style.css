@@ -18,7 +18,7 @@ body {
   font-size: 12px;
 }
 div.image:before {
-  content:url(/musixa-logo.png);
+  content:url(/audiero-logo.png);
   position: absolute;
   vertical-align: middle;
   display: flex;
