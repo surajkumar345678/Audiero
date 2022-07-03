@@ -13,30 +13,116 @@ const nextBtn = document.getElementById('next');
 // Music
 const songs = [
   {
-    name: 'Lost Sky - Dreams pt. II',
-    displayName: 'Dreams pt. II (feat. Sara Skinner)',
-    artist: 'Lost Sky, Sara Skinner',
+    name: 'A Different Way',
+    displayName: '1. A Different Way',
+    artist: 'DJ Snake, Lauv',
   },
   {
-    name: 'Sub Urban - Cradles [NCS Release]',
-    displayName: 'Cradles',
-    artist: 'Sub Urban',
+    name: 'Alan Walker - Alone',
+    displayName: '2. Alone',
+    artist: 'Alan Walker',
   },
   {
-    name: 'Culture Code - Make Me Move (feat. Karra) [NCS Release]',
-    displayName: 'Make Me Move (feat. KARRA)',
+    name: 'Alan Walker - Faded',
+    displayName: '3. Faded',
+    artist: 'Alan Walker',
+  },
+  {
+    name: 'Alan Walker & Ava Max - Alone, Pt. II',
+    displayName: '4. Alone, Pt. II',
+    artist: 'Alan Walker & Ava Max',
+  },
+  {
+    name: 'Arash - Broken Angel',
+    displayName: '5. Broken Angel',
+    artist: 'Arash ft. Helena',
+  },
+  {
+    name: 'Bazanji - Fed Up',
+    displayName: '6. Fed Up',
+    artist: 'Bazanji',
+  },
+  {
+    name: 'Culture Code - Make Me Move',
+    displayName: '7. Make Me Move',
     artist: 'Culture Code, KARRA',
   },
   {
-    name: 'Defqwop - Awakening [NCS Release]',
-    displayName: 'Awakening',
-    artist: 'Defqwop'
+    name: 'Defqwop - Awakening',
+    displayName: '8. Awakening',
+    artist: 'Defqwop',
   },
   {
-    name: 'Electro-Light - Symbolism [NCS Release]',
-    displayName: 'Symbolism',
-    artist: 'Electro-Light'
+    name: 'Dimitri Vegas & Like Mike vs David Guetta feat. Kiiara - Complicated',
+    displayName: '9. Complicated',
+    artist: ' Dimitri Vegas, Like Mike & David Guetta',
+  },
+  {
+    name: 'Electro-Light - Symbolism',
+    displayName: '10. Symbolism',
+    artist: 'Electro-Light',
+  },
+  {
+    name: 'Imagine Dragons - Believer',
+    displayName: '11. Believer',
+    artist: 'Imagine Dragons',
+  },
+  {
+    name: 'Kina - Can We Kiss Forever',
+    displayName: '12. Can We Kiss Forever?',
+    artist: 'Kinà ft. Adriana Proenza',
+  },
+  {
+    name: 'Lost Sky - Dreams pt. II',
+    displayName: '13. Dreams pt. II',
+    artist: 'Lost Sky, Sara Skinner',
+  },
+  {
+    name: 'Maroon 5 - Girls Like You',
+    displayName: '14. Girls Like You',
+    artist: 'Maroon 5',
+  },
+  {
+    name: 'Marshmello & Anne-Marie - FRIENDS',
+    displayName: '15. FRIENDS',
+    artist: 'Marshmello, Anne-Marie',
+  },
+  {
+    name: 'Masked Wolf - Astronaut In The Ocean',
+    displayName: '16. Astronaut In The Ocean',
+    artist: 'Masked Wolf',
+  },
+  {
+    name: 'Otilia - Bilionera',
+    displayName: '17. Bilionera',
+    artist: 'Otilia',
+  },
+  {
+    name: 'Sia - Cheap Thrills',
+    displayName: '18. Cheap Thrills',
+    artist: 'Sia',
+  },
+  {
+    name: 'Sub Urban - Cradles',
+    displayName: '19. Cradles',
+    artist: 'Sub Urban',
+  },
+  {
+    name: 'The Chainsmokers - Closer',
+    displayName: '20. Closer',
+    artist: 'The Chainsmokers ft. Halsey',
+  },
+  {
+    name: 'The Chainsmokers - Dont Let Me Down',
+    displayName: "21. Don't Let Me Down",
+    artist: 'The Chainsmokers ft. Daya',
+  },
+  {
+    name: 'TULE - Fearless pt.II',
+    displayName: '22. Fearless pt. II',
+    artist: 'TULE, Chris Linton',
   }
+  
 ];
 
 // Check if Playing
