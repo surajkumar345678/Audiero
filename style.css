@@ -17,8 +17,9 @@ body {
   font-family: 'Lato', sans-serif;
   font-size: 12px;
 }
+
 div.image:before {
-  content:url(/audiero-logo.png);
+  content: url(/audiero-logo.png);
   position: absolute;
   vertical-align: middle;
   display: flex;
@@ -27,6 +28,7 @@ div.image:before {
   top: 1%;
   left: 43%;
 }
+
 .player-container {
   height: 500px;
   width: 400px;
@@ -116,26 +118,64 @@ h3 {
   top: 3px;
 }
 
-/* Media Query: iPhone (Vertical) */
+/* Media Query */
+@media screen and (min-width: 376px) and (max-width: 500px) {
+  .player-container {
+    width: 90vw;
+    height: 60vh;
+  }
+
+
+  .img-container {
+    left: 30px;
+    width: 75vw;
+    height: 30vh;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+
+  h3 {
+    font-size: 25px;
+  }
+
+  div.image:before {
+    top: 3%;
+    position: absolute;
+    left: 24.5%;
+  }
+
+  .duration-wrapper span {
+    font-size: larger;
+  }
+
+  .player-controls {
+
+    left: 29%;
+  }
+}
+
 @media screen and (max-width: 376px) {
   .player-container {
-    width: 95vw;
+    width: 80vw;
+    height: 60vh;
   }
 
   .img-container {
     left: 29px;
-  }
-
-  h2 {
-    font-size: 20px;
-  }
-
-  h3 {
-    font-size: 15px;
+    width: 65vw;
+    height: 30vh;
   }
 
   .player-controls {
-    top: -10px;
-    left: 100px;
+
+    left: 25%;
+  }
+
+  div.image:before {
+    top: 3%;
+    position: absolute;
+    left: 23%;
   }
 }
