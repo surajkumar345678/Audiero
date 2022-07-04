@@ -121,6 +121,81 @@ const songs = [
     name: 'TULE - Fearless pt.II',
     displayName: '22. Fearless pt. II',
     artist: 'TULE, Chris Linton',
+  },
+  {
+    name: 'Alan Walker, Sabrina Carpenter & Farruko - On My Way',
+    displayName: '23. On My Way',
+    artist: 'Alan Walker, Sabrina Carpenter & Farruko',
+  },
+  {
+    name: 'Ariana Grande - positions (official video)',
+    displayName: '24. Positions',
+    artist: 'Ariana Grande',
+  },
+  {
+    name: 'CKay - Love Nwantiti Remix ft. Joeboy & Kuami Eugene [Ah Ah Ah]',
+    displayName: '25. Love Nwantiti [Ah Ah Ah]',
+    artist: 'CKay',
+  },
+  {
+    name: 'DJ Snake - Let Me Love You ft. Justin Bieber',
+    displayName: '26. Let Me Love You',
+    artist: 'DJ Snake',
+  },
+  {
+    name: 'Dua Lipa - Levitating Featuring DaBaby',
+    displayName: '27. Levitating',
+    artist: 'Dua Lipa',
+  },
+  {
+    name: 'Ed Sheeran - Shape of You',
+    displayName: '28. Shape of You',
+    artist: 'Ed Sheeran',
+  },
+  {
+    name: 'Ellie Goulding - Love Me Like You Do',
+    displayName: '29. Love Me Like You Do',
+    artist: 'Ellie Goulding',
+  },
+  {
+    name: 'Gym Class Heroes Stereo Hearts ft. Adam Levine',
+    displayName: '30. Stereo Hearts',
+    artist: 'Gym Class Heroes ft. Adam Levine',
+  },
+  {
+    name: 'Jennifer Lopez - In The Morning',
+    displayName: '31. In The Morning',
+    artist: 'Jennifer Lopez',
+  },
+  {
+    name: 'Jennifer Lopez - On The Floor ft. Pitbull',
+    displayName: '32. On The Floor',
+    artist: 'Jennifer Lopez',
+  },
+  {
+    name: 'Justin Bieber - Peaches ft. Daniel Caesar, Giveon',
+    displayName: '33. Peaches',
+    artist: 'Justin Bieber',
+  },
+  {
+    name: 'K-391 & Alan Walker - Ignite',
+    displayName: '34. Ignite',
+    artist: 'Alan Walker',
+  },
+  {
+    name: 'Savage Love - GMA',
+    displayName: '35. Savage Love',
+    artist: 'Jawsh 685, Jason Derulo',
+  },
+  {
+    name: 'Shawn Mendes, Camila Cabello - Señorita',
+    displayName: '36. Señorita',
+    artist: 'Shawn Mendes, Camila Cabello',
+  },
+  {
+    name: 'Witt Lowry - Into Your Arms (feat. Ava Max)',
+    displayName: '37. Into Your Arms',
+    artist: 'Witt Lowry-feat. Ava Max',
   }
   
 ];
