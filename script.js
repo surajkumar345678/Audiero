@@ -44,7 +44,7 @@ const songs = [
   },
   {
     name: 'Cartoon - On _ On',
-    displayName: '7. On On',
+    displayName: '7. On & On',
     artist: 'Cartoon',
   },
   {
@@ -154,7 +154,7 @@ const songs = [
   },
   {
     name: 'Lensko - Let_s Go',
-    displayName: '29. Let_s Go',
+    displayName: "29. Let's Go",
     artist: 'Lensko',
   },
   {
@@ -200,7 +200,7 @@ const songs = [
   {
     name:'Ship Wrek _ Zookeepers - Ark',
     displayName:'38. Ark',
-    artist:'Ship Wrek Zookeepers',
+    artist:'Ship Wrek & Zookeepers',
   },
   {
     name:'Spektrem - Shine',
@@ -239,7 +239,7 @@ const songs = [
   },
   {
     name:'Unknown Brain - MATAFAKA',
-    displayName:'46. Unknown Brain - MATAFAKA',
+    displayName:'46. MATAFAKA',
     artist:'Unknown Brain',
   },
   {
