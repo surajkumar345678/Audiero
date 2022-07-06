@@ -121,15 +121,15 @@ h3 {
 /* Media Query */
 @media screen and (min-width: 376px) and (max-width: 500px) {
   .player-container {
-    width: 90vw;
-    height: 60vh;
+    width: 95vw;
+    height: 70vh;
   }
 
 
   .img-container {
     left: 30px;
-    width: 75vw;
-    height: 30vh;
+    width: 80vw;
+    height: 40vh;
   }
 
   h2 {
@@ -159,13 +159,14 @@ h3 {
 @media screen and (max-width: 376px) {
   .player-container {
     width: 80vw;
-    height: 60vh;
+    height: 68vh;
   }
 
   .img-container {
     left: 29px;
+    top: -6vh;
     width: 65vw;
-    height: 30vh;
+    height: 40vh;
   }
 
   .player-controls {
